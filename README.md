@@ -18,7 +18,7 @@
 
 # Installation
 
-      Clone the repository:git clone https://github.com/yourusername/music-festival-api.git
+      Clone the repository:git clone https://github.com/SaravanaSenthil-CD/MUSIC_FESTIVAL_API
 
       cd music-festival-api
 
